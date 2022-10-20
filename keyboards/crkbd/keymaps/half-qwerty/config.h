@@ -30,6 +30,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL_PD2
 #define ONESHOT_TAP_TOGGLE 3
+#define AUTO_SHIFT_MODIFIERS
 
 // #define TAPPING_FORCE_HOLD
 #define TAPPING_TERM 200
